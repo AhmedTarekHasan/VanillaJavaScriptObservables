@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://javascript.plainenglish.io/how-to-use-observables-with-vanilla-javascript-aca40a7590ff?sk=21af550f3c383951c87c208da33226b6" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/how-to-use-observables-with-vanilla-javascript" />
 
 # How to Use Observables with Vanilla JavaScript
 ### No frameworks used, just pure vanilla JavaScript.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/875/1*PJvcA9oyInKvoBItnRgz7Q.png">
+  <img src="https://static.wixstatic.com/media/488a99_6d8f046af0b24f108e70a577a706fade~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://javascript.plainenglish.io/how-to-use-observables-with-vanilla-javascript-aca40a7590ff?sk=21af550f3c383951c87c208da33226b6
+[Article]: https://www.developmentsimplyput.com/post/how-to-use-observables-with-vanilla-javascript
